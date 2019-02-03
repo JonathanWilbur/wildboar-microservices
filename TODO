@@ -1,0 +1,74 @@
+- [ ] Use RFC 2119 Verbs
+- [ ] Implement database schema policy
+- [ ] Authentication
+  - [ ] All services must use SASL
+- [ ] Logging Policy
+  - [ ] No logging to flat files
+- [ ] Future use of ISO 8601:2019 for time formats
+- [ ] Semantic versioning
+- [ ] Use of ISO 6093 NR3 for representing floating point numbers
+- [ ] Error messages
+- [ ] Character Encoding
+- [ ] Serialization
+  - [ ] Colors
+  - [ ] Durations
+  - [ ] Digital Object Identifier (DOI)
+  - [ ] Identifiers that:
+    - [ ] Need padding
+    - [ ] Use only numbers
+  - [ ] Currency Amounts
+  - [ ] PubMed Identifier (PMID)
+  - [ ] ARN
+  - [ ] SID
+  - [ ] Publisher Item Identifier (PII)
+  - [ ] ISBN
+  - [ ] ISSN
+  - [ ] ISNI
+  - [ ] ISMN
+  - [ ] Serial Item and Contribution Identifier (SICI)
+  - [ ] Open Researcher and Contributor ID (ORCID)
+  - [ ] Human Names
+  - [ ] Phone numbers
+  - [ ] Email addresses
+  - [ ] Digital Author Identifier (DAI)
+  - [ ] Ringgold Identifier (RIN)
+  - [ ] ResearcherID
+  - [ ] Any identifier with an IANA-assigned namespace in the URN specification MUST use a URN.
+  - [ ] URI
+- [ ] Interfaces
+  - [ ] UniquelyIdentified
+  - [ ] Stringable
+  - [ ] Byteable
+  - [ ] Queue
+  - [ ] Stack
+  - [ ] Deque
+  - [ ] SinglyLinked
+  - [ ] DoublyLinked
+  - [ ] Incrementable
+  - [ ] Decrementable
+  - [ ] Nullable
+  - [ ] Long
+  - [ ] Wide
+  - [ ] High
+  - [ ] Sizeable
+  - [ ] Temporal
+  - [ ] Named
+  - [ ] Nameable
+  - [ ] Peekable
+- [ ] Cryptography?
+  - [ ] Use FIPS 140-2
+- [ ] Formal Definitions of Cultural Conventions (FDCC, per ISO 30112:2014)
+  - [ ] LC_IDENTIFICATION
+  - [ ] LC_CTYPE
+  - [ ] LC_COLLATE
+  - [ ] LC_MONETARY
+  - [ ] LC_NUMERIC
+  - [ ] LC_TIME
+  - [ ] LC_MESSAGES
+  - [ ] LC_XLITERATE
+  - [ ] LC_NAME
+  - [ ] LC_ADDRESS
+  - [ ] LC_TELEPHONE
+  - [ ] LC_PAPER
+  - [ ] LC_MEASUREMENT
+  - [ ] LC_KEYBOARD
